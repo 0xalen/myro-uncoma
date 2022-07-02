@@ -1,0 +1,19 @@
+from myro import *
+
+def yoyo(speed, waitTime):
+	adelante(speed,waitTime)
+	atras(speed, waitTime)
+
+def wiggle(speed, waitTime):
+	adelante(-speed, speed)
+	wait(waitTime)
+	adelante(speed,-speed)
+	wait(waitTime)
+	stop()
+
+def main():
+	print("Running the dance Rutime...")
+	yoyo(0.5,0.5)
+
+main()
+
