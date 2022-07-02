@@ -1,0 +1,4 @@
+/home/csfinch/Desktop/Myro/se_uncoma/robotitos/faivision/cvblob/cvblob/lib/CMakeFiles/cvblob.dir
+/home/csfinch/Desktop/Myro/se_uncoma/robotitos/faivision/cvblob/cvblob/test/CMakeFiles/test.dir
+/home/csfinch/Desktop/Myro/se_uncoma/robotitos/faivision/cvblob/cvblob/test/CMakeFiles/test_random.dir
+/home/csfinch/Desktop/Myro/se_uncoma/robotitos/faivision/cvblob/cvblob/test/CMakeFiles/test_tracking.dir
